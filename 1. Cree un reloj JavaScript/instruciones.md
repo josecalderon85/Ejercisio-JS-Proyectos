@@ -5,4 +5,6 @@ Para darle una idea de por dónde comenzar con esta idea de proyecto de JavaScri
 
 El código JavaScript hace posible coordinar las imágenes de lolcat con tiempos establecidos elegidos por el usuario o presionando el botón "Party Time!". ¿Puedo hacer el tiempo? Sí tu puedes.
 
-https://codepen.io/codifiedconcepts/pen/bwgxRq
+AYUDA => https://webrewrite.com/get-current-date-time-javascript/
+
+PELIGRO => SOLUCION https://codepen.io/codifiedconcepts/pen/bwgxRq
